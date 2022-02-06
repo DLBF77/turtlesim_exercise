@@ -1,4 +1,4 @@
-#TurtleSim Exercise
+# TurtleSim Exercise
 
 TurtleSim exercise contains a simple server written in python to control a turtle in ROS's turtlesim environment. 
 
@@ -10,8 +10,10 @@ TurtleSim exercise contains a simple server written in python to control a turtl
 ## Setup
   in a terminal: 
     - `roscore`
+
   in another terminal:
-    - rosrun turtlesim turtlesim_node
+    - `rosrun turtlesim turtlesim_node`
+
   in a third terminal
     - `cd turtle_ws`
     - `catkin_make`
