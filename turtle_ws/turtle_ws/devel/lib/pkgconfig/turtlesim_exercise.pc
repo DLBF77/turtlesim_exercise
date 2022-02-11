@@ -1,8 +1,0 @@
-prefix=C:/ws/turtle_ws/devel
-
-Name: turtlesim_exercise
-Description: Description of turtlesim_exercise
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 

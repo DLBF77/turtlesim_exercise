@@ -1,2 +1,0 @@
-turtlesim_exercise
--DCMAKE_BUILD_TYPE=RelWithDebInfo -DCATKIN_DEVEL_PREFIX=c:\ws\turtle_ws\devel -DCMAKE_INSTALL_PREFIX=c:\ws\turtle_ws\install -G Ninja
